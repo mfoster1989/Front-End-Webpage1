@@ -1,0 +1,11 @@
+h1 {
+  transition: all 1s;
+  color: orange;
+}
+
+.newcolor {
+  color: black;
+}
+.brandnewcolor {
+  color: brown;
+}
